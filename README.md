@@ -1,5 +1,3 @@
-https://i.imgur.com/hlAmTA1.png
-
 Firstly, the directory ahem:
 
 ```
